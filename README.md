@@ -11,7 +11,7 @@ This repository contains the code and documentation for creating a dynamic Live 
 - **Enhanced User Experience**: Enjoy a visually appealing dashboard interface with integrated player images and tooltips for an immersive user experience.
 
 ## Outcome
-The resultant Live IPL Dashboard in Power BI represents a comprehensive solution for real-time IPL match analysis. By delivering Ɵmely updates and acƟonable insights, the dashboard enhances decision-making processes and fosters deeper engagement with IPL matches among stakeholders and cricket enthusiasts.
+The resultant Live IPL Dashboard in Power BI represents a comprehensive solution for real-time IPL match analysis. By delivering timely updates and actionable insights, the dashboard enhances decision-making processes and fosters deeper engagement with IPL matches among stakeholders and cricket enthusiasts.
 
 ## Future enhancement
 - Explore additional features such as historical data analysis and predictive modelling.
